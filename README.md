@@ -13,6 +13,7 @@ Então, se você...
 * Tem algum problema técnico que necessita uma ajuda,
 * Quer dividir algum repo conosco,
 * Ou tem uma ideia que quer desenvolver em conjunto conosco...
+
 Fique a vontade para pedir ajuda abrindo [uma issue aqui!](https://github.com/Mobirama/Manifesto/issues)
 
 De tudo o que já trabalhamos, podemos ajudar com:
@@ -42,4 +43,5 @@ De tudo o que já trabalhamos, podemos ajudar com:
 - Delphi
 
 Obrigado!
+
 []'s
